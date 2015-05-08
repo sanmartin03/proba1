@@ -1,6 +1,8 @@
 import java.util.Scanner;
 
 /* Esto es un comentario */
+
+//otro comentario que nos e va  aver
 public class Refactorizacion2 {
 	private static Scanner entrada;
 
